@@ -424,7 +424,7 @@ a{
 
 }
 
-.footer-form .form-desc .form-btn{
+/*.footer-form .form-desc .form-btn{
     min-width: 165px;
     height: 40px;
     display: flex;
@@ -503,7 +503,7 @@ a{
 .modal-window .modal-container .modal-button:focus .icon {
     fill: #ffffff;
 }
-.modal-window .modal-container .modal-parag{
+*/.modal-window .modal-container .modal-parag{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
